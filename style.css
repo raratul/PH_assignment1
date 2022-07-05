@@ -18,10 +18,18 @@ h1 {
     background-size: 100%;
 }
 
-.half-width {
-    width: 50%;
+.mid-section {
+    background-size: 100%;
+}
+
+.top-div {
     float: left;
     margin: 120px 345px 30px 345px;
+}
+
+.donate {
+    float: left;
+    margin: 50px 100px;
 }
 
 .ptext {
@@ -29,7 +37,7 @@ h1 {
     text-align: center;
 }
 
-.ptext2 {
+.dtext {
     color: #707070;
     text-align: center;
 }
@@ -37,11 +45,6 @@ h1 {
 .dt {
     margin-left: 180px;
 }
-
-.donate {
-    padding: 2%;
-}
-
 
 .anchor-button {
     text-decoration: none;
@@ -53,17 +56,28 @@ h1 {
     margin: 60px 580px;
 }
 
-.flex-container {
-    display: flex;
+.donate-button-div {
+    margin-left: 500px;
 
 }
 
 .donate-button {
     text-decoration: none;
-    background: white;
+    background: #FAFAFA;
     padding: 20px 10px;
     border-radius: 5px;
     color: #707070;
     font-weight: 700;
-    margin: 60px 580px;
+
+}
+
+.tk-button {
+    text-decoration: none;
+    background: #FFEEEE;
+    padding: 20px 10px;
+    border-radius: 5px;
+    color: #FF5959;
+    font-weight: 700;
+    border-style: solid;
+    border-color: #FF5959;
 }
