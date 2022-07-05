@@ -29,12 +29,41 @@ h1 {
     text-align: center;
 }
 
+.ptext2 {
+    color: #707070;
+    text-align: center;
+}
+
+.dt {
+    margin-left: 180px;
+}
+
+.donate {
+    padding: 2%;
+}
+
+
 .anchor-button {
     text-decoration: none;
     background: #FF5959;
-    padding: 10px 40px;
+    padding: 10px 20px;
     border-radius: 5px;
     color: white;
+    font-weight: 500;
+    margin: 60px 580px;
+}
+
+.flex-container {
+    display: flex;
+
+}
+
+.donate-button {
+    text-decoration: none;
+    background: white;
+    padding: 20px 10px;
+    border-radius: 5px;
+    color: #707070;
     font-weight: 700;
     margin: 60px 580px;
 }
