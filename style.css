@@ -6,7 +6,7 @@ body {
 
 section {
     height: 500px;
-    padding-bottom: 150px;
+    padding-bottom: 90px;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
 .top-banner {
     background-image: url("images/donation6.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     margin-bottom: 5px;
 }
 
@@ -30,6 +30,7 @@ h1 {
 .ptext {
     color: white;
     text-align: center;
+    margin-top: 60px;
 }
 
 .anchor-button {
@@ -70,7 +71,7 @@ h1 {
 .donate-button {
     text-decoration: none;
     background: #FAFAFA;
-    padding: 60px 30px;
+    padding: 30px 24px;
     border-radius: 5px;
     color: #707070;
     font-weight: 700;
@@ -79,7 +80,7 @@ h1 {
 .tk-button {
     text-decoration: none;
     background: #FFEEEE;
-    padding: 20px 10px;
+    padding: 30px 24px;
     border-radius: 5px;
     color: #FF5959;
     font-weight: 700;
@@ -107,7 +108,12 @@ h1 {
 
 .donate-plan {
     float: left;
-    margin: 10px;
+    margin: 30px;
+}
+
+.donate-plan2 {
+    float: left;
+    margin: 30px;
 }
 
 .dpt {
@@ -123,12 +129,12 @@ h1 {
 .food {
     text-decoration: none;
     float: left;
-    background: white;
-    padding: 90px 30px;
+    background: #EEF6F7;
+    padding: 60px 30px;
     font-weight: 600;
     border-style: none;
     border-radius: 5px;
-    margin: 30px;
+    margin: 24px;
     width: 24%;
 }
 
@@ -139,12 +145,12 @@ h1 {
 .shelter {
     text-decoration: none;
     float: left;
-    background: white;
-    padding: 90px 30px;
+    background: #FFEFEF;
+    padding: 60px 30px;
     font-weight: 600;
     border-style: none;
     border-radius: 5px;
-    margin: 30px;
+    margin: 24px;
     width: 24%;
 }
 
@@ -155,12 +161,12 @@ h1 {
 .edu {
     text-decoration: none;
     float: left;
-    background: white;
-    padding: 90px 30px;
+    background: #FFF4D6;
+    padding: 60px 30px;
     font-weight: 600;
     border-style: none;
     border-radius: 5px;
-    margin: 30px;
+    margin: 24px;
     width: 24%;
 }
 
@@ -210,18 +216,18 @@ h1 {
 }
 
 .ut {
-    margin-left: 450px;
+    margin-left: 420px;
 }
 
 .utext {
     color: #707070;
     text-align: center;
-    margin: 21px 270px;
+    margin: 21px 360px;
 }
 
 .sub {
     background-color: #FFF4D6;
-    margin-left: 375px;
+    margin-left: 360px;
     padding: 60px 120px;
 }
 
