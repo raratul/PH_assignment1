@@ -3,13 +3,14 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+
 section {
     height: 500px;
     padding-bottom: 150px;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 /* Section-1 */
@@ -18,7 +19,7 @@ h1 {
     background-image: url("images/donation6.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 
 .top-div {
@@ -43,8 +44,8 @@ h1 {
 
 /* Section-2 */
 
-.mid-section {
-    margin-bottom: 30px;
+.mid1-section {
+    margin-bottom: 5px;
 }
 
 .donate {
@@ -53,7 +54,7 @@ h1 {
 }
 
 .dt {
-    margin-left: 390px;
+    margin-left: 450px;
 }
 
 .dtext {
@@ -101,7 +102,7 @@ h1 {
 /* Section-3 */
 
 .mid2-section {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 
 .donate-plan {
@@ -110,7 +111,7 @@ h1 {
 }
 
 .dpt {
-    margin-left: 450px;
+    margin-left: 510px;
 }
 
 .dptext {
@@ -165,4 +166,34 @@ h1 {
 
 .edu p {
     color: #707070;
+}
+
+/* Section-4 */
+
+.mid3-section {
+    margin-bottom: 5px;
+}
+
+.help {
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding-left: 2%;
+}
+
+.help img {
+    width: 100%;
+}
+
+.flexible-container {
+    display: inline-block;
+}
+
+.contri-button {
+    text-decoration: none;
+    background: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
 }
