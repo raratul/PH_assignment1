@@ -12,14 +12,13 @@ h1 {
     font-size: 50px;
 }
 
+/* Section-1 */
+
 .top-banner {
     background-image: url("images/donation6.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-}
-
-.mid-section {
-    background-size: 100%;
+    margin-bottom: 30px;
 }
 
 .top-div {
@@ -27,23 +26,9 @@ h1 {
     margin: 120px 345px 30px 345px;
 }
 
-.donate {
-    float: left;
-    margin: 50px 100px;
-}
-
 .ptext {
     color: white;
     text-align: center;
-}
-
-.dtext {
-    color: #707070;
-    text-align: center;
-}
-
-.dt {
-    margin-left: 180px;
 }
 
 .anchor-button {
@@ -53,22 +38,41 @@ h1 {
     border-radius: 5px;
     color: white;
     font-weight: 500;
-    margin: 60px 580px;
+    margin: 60px 600px;
+}
+
+/* Section-2 */
+
+.mid-section {
+    margin-bottom: 30px;
+}
+
+.donate {
+    float: left;
+    margin: 50px 100px;
+}
+
+.dt {
+    margin-left: 390px;
+}
+
+.dtext {
+    color: #707070;
+    text-align: center;
+    margin: 21px 270px;
 }
 
 .donate-button-div {
-    margin-left: 500px;
-
+    margin-left: 432px;
 }
 
 .donate-button {
     text-decoration: none;
     background: #FAFAFA;
-    padding: 20px 10px;
+    padding: 60px 30px;
     border-radius: 5px;
     color: #707070;
     font-weight: 700;
-
 }
 
 .tk-button {
@@ -80,4 +84,85 @@ h1 {
     font-weight: 700;
     border-style: solid;
     border-color: #FF5959;
+}
+
+.input-text {
+    text-decoration: none;
+    background: white;
+    padding: 10px 300px;
+    color: #707070;
+    font-weight: 300;
+    border-style: none;
+    border-bottom-style: solid;
+    border-bottom-color: #707070;
+    margin: 60px 310px;
+}
+
+/* Section-3 */
+
+.mid2-section {
+    margin-bottom: 30px;
+}
+
+.donate-plan {
+    float: left;
+    margin: 10px;
+}
+
+.dpt {
+    margin-left: 450px;
+}
+
+.dptext {
+    color: #707070;
+    text-align: center;
+    margin: 21px 360px;
+}
+
+.food {
+    text-decoration: none;
+    float: left;
+    background: white;
+    padding: 90px 30px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 5px;
+    margin: 30px;
+    width: 24%;
+}
+
+.food p {
+    color: #707070;
+}
+
+.shelter {
+    text-decoration: none;
+    float: left;
+    background: white;
+    padding: 90px 30px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 5px;
+    margin: 30px;
+    width: 24%;
+}
+
+.shelter p {
+    color: #707070;
+}
+
+.edu {
+    text-decoration: none;
+    float: left;
+    background: white;
+    padding: 90px 30px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 5px;
+    margin: 30px;
+    width: 24%;
+}
+
+.edu p {
+    color: #707070;
 }
