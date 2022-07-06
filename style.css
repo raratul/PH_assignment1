@@ -171,7 +171,7 @@ h1 {
 /* Section-4 */
 
 .mid3-section {
-    margin-bottom: 5px;
+    margin-bottom: 1000px;
 }
 
 .help {
@@ -196,4 +196,71 @@ h1 {
     border-radius: 5px;
     color: white;
     font-weight: 400;
+}
+
+/* Section-5 */
+
+.mid4-section {
+    margin-bottom: 0px;
+}
+
+.update {
+    float: left;
+    margin: 50px 100px;
+}
+
+.ut {
+    margin-left: 450px;
+}
+
+.utext {
+    color: #707070;
+    text-align: center;
+    margin: 21px 270px;
+}
+
+.sub {
+    background-color: #FFF4D6;
+    margin-left: 375px;
+    padding: 60px 120px;
+}
+
+.email-text {
+    text-decoration: none;
+    background: #D9D9D9;
+    padding: 10px 100px 10px 10px;
+    color: #707070;
+    font-weight: 300;
+    border-style: none;
+    margin-right: 0;
+}
+
+.sub-button {
+    text-decoration: none;
+    background: #FF5959;
+    padding: 6px 24px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    font-weight: 300;
+    margin-left: -5px;
+}
+
+/* Footer */
+
+footer {
+    background-color: #0B0D17;
+    height: 210px;
+}
+
+footer h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #E04F50;
+    text-align: center;
+}
+
+footer p {
+    font-size: smaller;
+    color: white;
+    text-align: center;
 }
