@@ -61,7 +61,7 @@ h1 {
 .dtext {
     color: #707070;
     text-align: center;
-    margin: 21px 270px;
+    margin: 21px 282px;
 }
 
 .donate-button-div {
@@ -117,7 +117,7 @@ h1 {
 }
 
 .dpt {
-    margin-left: 510px;
+    text-align: center;
 }
 
 .dptext {
@@ -136,7 +136,7 @@ h1 {
     border-radius: 5px;
     margin: 24px;
     width: 24%;
-    height: 50%;
+    height: 390px;
 }
 
 .food p {
@@ -153,7 +153,7 @@ h1 {
     border-radius: 5px;
     margin: 24px;
     width: 24%;
-    height: 50%;
+    height: 390px;
 }
 
 .shelter p {
@@ -170,7 +170,7 @@ h1 {
     border-radius: 5px;
     margin: 24px;
     width: 24%;
-    height: 50%;
+    height: 390px;
 }
 
 .edu p {
